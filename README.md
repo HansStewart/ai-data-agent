@@ -3,7 +3,8 @@
 A production-ready REST API that accepts any CSV dataset, analyzes it using OpenAI GPT-4o, and returns actionable AI-generated insights.
 
 ## 🌐 Live Demo
-Tableau Dashboard: https://public.tableau.com/app/profile/hans.stewart/viz/AIDataAnalysisAgent-PortfolioProject/AI-PoweredAirTravelAnalysisDashboard
+- Tableau Dashboard: https://public.tableau.com/app/profile/hans.stewart/viz/AIDataAnalysisAgent-PortfolioProject/AI-PoweredAirTravelAnalysisDashboard
+- Live API: https://ai-data-agent-559169459241.us-east1.run.app
 
 ## 🛠️ Tech Stack
 - Python 3.14 — Core language
